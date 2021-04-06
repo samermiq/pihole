@@ -1,3 +1,8 @@
-youtube.com
 www.youtube.com
-https://www.youtube.com
+m.youtube.com
+googlevideo.com
+ytimg.l.google.com
+ytimg.com
+youtu.be
+roblox.com
+web.roblox.com
