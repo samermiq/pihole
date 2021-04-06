@@ -5,6 +5,7 @@ fcmatch.youtube.com
 m.youtube.com
 googlevideo.com
 youtube-ui.l.google.com
+googlevideo.com
 accounts.youtube.com
 accounts.youtube.com
 ytimg.l.google.com
