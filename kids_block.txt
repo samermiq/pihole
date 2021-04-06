@@ -1,6 +1,12 @@
 www.youtube.com
+youtube.com
+www.youtube.com
+fcmatch.youtube.com
 m.youtube.com
 googlevideo.com
+youtube-ui.l.google.com
+accounts.youtube.com
+accounts.youtube.com
 ytimg.l.google.com
 ytimg.com
 youtu.be
