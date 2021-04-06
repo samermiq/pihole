@@ -6,6 +6,7 @@ play.googleapis.com
 m.youtube.com
 googlevideo.com
 youtube-ui.l.google.com
+youtubei.googleapis.com
 googlevideo.com
 accounts.youtube.com
 accounts.youtube.com
