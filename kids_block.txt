@@ -2,6 +2,7 @@ www.youtube.com
 youtube.com
 www.youtube.com
 fcmatch.youtube.com
+play.googleapis.com
 m.youtube.com
 googlevideo.com
 youtube-ui.l.google.com
